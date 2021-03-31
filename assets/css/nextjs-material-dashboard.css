@@ -5,7 +5,7 @@
 =========================================================
 
 * Product Page: http://www.creative-tim.com/product/nextjs-material-dashboard
-* Copyright 2021 Creative Tim (http://www.creative-tim.com)
+* Copyright 2021 APEX-LTD (http://www.creative-tim.com)
 * Licensed under MIT (https://github.com/creativetimofficial/nextjs-material-dashboard/blob/master/LICENSE.md)
 
 =========================================================
@@ -541,7 +541,7 @@ footer ul li a:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  content: '';
+  content: "";
   display: block;
   z-index: 9999;
   position: absolute;
