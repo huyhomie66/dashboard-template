@@ -152,18 +152,6 @@ export default function FixedPlugin(props) {
           <li className="button-container">
             <div className="button-container">
               <Button
-                color="success"
-                href="https://www.creative-tim.com/product/nextjs-material-dashboard?ref=njsmd-fixed-plugin"
-                target="_blank"
-                fullWidth
-              >
-                Download free!
-              </Button>
-            </div>
-          </li>
-          <li className="button-container">
-            <div className="button-container">
-              <Button
                 color="warning"
                 href="https://www.creative-tim.com/product/nextjs-material-dashboard-pro?ref=njsmd-fixed-plugin"
                 target="_blank"
